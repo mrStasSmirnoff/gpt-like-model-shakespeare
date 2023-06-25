@@ -1,0 +1,2 @@
+This repo contains the results of is create as part of learning how GPT like models are created and trained. Its heavily inspired by:
+- https://www.youtube.com/watch?v=kCc8FmEb1nY&t=266s&ab_channel=AndrejKarpathy
